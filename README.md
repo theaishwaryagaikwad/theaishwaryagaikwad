@@ -1,19 +1,22 @@
   HI👋, I'M AISHWARYA GAIKWAD
 
-A passionate Software Engineer from India
+👩‍🎓 A passionate Software Engineer from India
 
 🌱 I’m currently React Native, TypeScript, Programming
 
-💬 Ask me about Web Dev
+👨‍💻 All of my projects are available at my portfolio : https://theaishwaryagaikwad.github.io/Portfolio/
 
-📫 How to reach me gaikwadaishwarya2002@gmail.com
+💬 Ask me about FULL STACK WEB DEV.
 
-📄 Know about my experiences https://drive.google.com/drive/folders/1C46YN9uitrdJkn7eAt8yrFmyggQp1j9d
+📬 How to reach me: gaikwadaishwarya2002@gmail.com
 
-⚡ Fun fact I have a habit of talking to myself😅, and sometimes I forget that there are other people around😂.
+📌 Know about my experiences : https://drive.google.com/drive/folders/1C46YN9uitrdJkn7eAt8yrFmyggQp1j9d
 
-Connect with me: https://www.linkedin.com/in/aish-gaikwad
+Fun Fact: Sometimes I forget 😄the whole environment while working.😂
 
-Languages and Tools: ReactJS, Javascript, HTML, CSS, Bootstrap, jQuery, NodeJS, ExpressJS, MongoDB, mySQL, Python, VScode, Postman also Version Controls like Github, Git, GitLab.
+🔗 Connect me : https://www.linkedin.com/in/aish-gaikwad
+
+Languages and Tools: 
+         ReactJS 🌐, Javascript , HTML, CSS, Bootstrap, jQuery, NodeJS, ExpressJS, MongoDB, mySQL, Python, VScode, Postman also Version Controls like Github, Git, GitLab.
 
 Aishwarya Gaikwad.
