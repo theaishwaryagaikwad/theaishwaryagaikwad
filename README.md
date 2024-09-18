@@ -20,7 +20,7 @@
 
 ◽ Languages and Tools:
 
-         ReactJS 🌐, Javascript , HTML, CSS, Bootstrap, jQuery, NodeJS, ExpressJS, MongoDB 🍃, mySQL, Python, VScode, Postman 🗯 
-          also Version Controls like Github, Git, GitLab.
+         [ReactJS](https://react.dev/), [Javascript](https://devdocs.io/javascript/) , [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Bootstrap](https://getbootstrap.com/), [jQuery](https://jquery.com/), [NodeJS](https://nodejs.org/en), [ExpressJS](https://expressjs.com/), [MongoDB](https://www.mongodb.com/), [mySQL](https://www.mysql.com/), [Python](https://www.python.org/), [VScode](https://code.visualstudio.com/), [Postman](https://www.postman.com/) 
+          also Version Controls like [Github](https://www.github.com), [Git](https://git-scm.com/),[GitLab](https://www.gitlab.com/)
 
 Aishwarya Gaikwad.
