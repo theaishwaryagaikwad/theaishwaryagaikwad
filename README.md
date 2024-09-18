@@ -17,6 +17,7 @@ Fun Fact: Sometimes I forget 😄the whole environment while working.😂
 🔗 Connect me : https://www.linkedin.com/in/aish-gaikwad
 
 Languages and Tools: 
-         ReactJS 🌐, Javascript , HTML, CSS, Bootstrap, jQuery, NodeJS, ExpressJS, MongoDB, mySQL, Python, VScode, Postman also Version Controls like Github, Git, GitLab.
+         ReactJS 🌐, Javascript , HTML, CSS, Bootstrap, jQuery, NodeJS, ExpressJS, MongoDB 🍃, mySQL, Python, VScode, Postman 🗯 
+          also Version Controls like Github, Git, GitLab.
 
 Aishwarya Gaikwad.
