@@ -6,7 +6,9 @@
 
 ◽ 🌱 I’m currently working on LIVE PROJECT of a RESTAURANT APP  - https://aurder.com/home
 
-◽ 👨‍💻 All of my projects are available at my portfolio : https://theaishwaryagaikwad.github.io/Portfolio/
+◽ 👨‍💻 All of my projects are available at my Github : https://www.github.com/theaishwaryagaikwad
+
+◽ 📌 For more details, Here's my PORTFOLIO - https://theaishwaryagaikwad.github.io/Portfolio/
 
 ◽ 💬 Ask me about FULL STACK WEB DEV.
 
