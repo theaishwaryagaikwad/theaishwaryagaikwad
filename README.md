@@ -14,8 +14,6 @@
 
 ◽ 📬 How to reach me: gaikwadaishwarya2002@gmail.com
 
-◽ 📌 Know about my experiences : https://drive.google.com/drive/folders/1C46YN9uitrdJkn7eAt8yrFmyggQp1j9d
-
 ◽ Fun Fact: Sometimes I forget 😄the whole environment while working.😂
 
 ◽ 🔗 Connect me : https://www.linkedin.com/in/aish-gaikwad
