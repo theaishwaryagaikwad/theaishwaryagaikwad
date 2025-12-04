@@ -3,9 +3,11 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
                                           👩‍🎓 𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 𝕗𝕣𝕠𝕞 𝕀𝕟𝕕𝕚𝕒
+
                                           
-                          
-◽ 🌱 I’m currently working on LIVE PROJECT of a RESTAURANT APP  - https://aurder.com/home
+◽ 👨‍💻 I’m currently working as SOFTWARE ENGINEER @Capgemini                         
+
+◽ 🌱 MY work on LIVE PROJECT of a RESTAURANT APP  - https://aurder.com/home
 
 ◽ 👨‍💻 All of my projects are available at my Github : https://www.github.com/theaishwaryagaikwad
 
